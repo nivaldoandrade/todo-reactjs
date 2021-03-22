@@ -1,0 +1,27 @@
+:root {
+	--background-tamarind: #2d132c;
+	--background-Claret: #c72c41;
+	--flamingo: #ee4540;
+	--flamingo-light: #e49492;
+	--text: #fff;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font: 1rem 'Inter', Arial, sans-serif;
+	color: var(--text);
+	background-color:#801336;
+};
+
+input, select, textarea {
+	font-family: 'Inter';
+}
+
+button {
+	cursor: pointer;
+}
