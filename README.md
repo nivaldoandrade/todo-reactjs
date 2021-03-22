@@ -1,4 +1,8 @@
-# <p align="center">To-do com ReactJS<p/>
+#<p align="center">To-do com ReactJS</p>
+
+<p align="center">
+	<img src="https://github.com/nivaldoandrade/todo-reactjs/blob/main/assestsREADME/logo.gif">
+</p>
 
 O famoso **To Do** de cada dia, feito com **ReactJS** configurado do zero(webpack e babel).
 
