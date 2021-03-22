@@ -8,7 +8,7 @@ O famoso **To Do** de cada dia, feito com **ReactJS** configurado do zero(webpac
 
 ## **Configurações Inicias**
 ```
-	# clonar o repositório
+  # clonar o repositório
   git clone https://github.com/nivaldoandrade/todo-reactjs
 
   # Instalar as dependências
@@ -16,6 +16,7 @@ O famoso **To Do** de cada dia, feito com **ReactJS** configurado do zero(webpac
 
   # Iniciar a aplicação
   yarn dev
+	
 ```
 
 ## Tecnologias
