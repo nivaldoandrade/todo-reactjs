@@ -6,12 +6,12 @@
 
 O famoso **To Do** de cada dia, feito com **ReactJS** configurado do zero(webpack e babel).
 
-## **Configurações Inicias**
+## **Configurações Iniciais**
 ```
   # clonar o repositório
   git clone https://github.com/nivaldoandrade/todo-reactjs
 
-  # Instalar as dependências
+  # Instalar as dependências dentro da pasta clonada
   yarn
 
   # Iniciar a aplicação
